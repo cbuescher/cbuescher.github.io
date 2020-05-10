@@ -26,6 +26,10 @@ categories: audio coding
 
   Open source visual programming language for multimedia, strong focus on audio but also video.
 
+* [Max/MSP](https://cycling74.com/)
+
+  Commercial visual programming language for music and multimedia.
+
 * [Sonic Pi](https://sonic-pi.net/)
 
   Code-based music creation and performance tool for live-coding.
