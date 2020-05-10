@@ -22,6 +22,13 @@ categories: audio coding
   Free OS software for making patterns with code with focus on live coding music or composition.
   Seems to use SuperCollider as part of its dependencies.
 
+* [Sonic Pi](https://sonic-pi.net/)
+
+  Code-based music creation and performance tool for live-coding.
+
+### Visual Languages
+
+
 * [PureData](http://puredata.info/)
 
   Open source visual programming language for multimedia, strong focus on audio but also video.
@@ -29,7 +36,13 @@ categories: audio coding
 * [Max/MSP](https://cycling74.com/)
 
   Commercial visual programming language for music and multimedia.
+  
+* [AudioMulch](http://www.audiomulch.com/)
 
-* [Sonic Pi](https://sonic-pi.net/)
+  AudioMulch is modular audio software for making music and processing sound. 
 
-  Code-based music creation and performance tool for live-coding.
+* [Nodal](https://nodalmusic.com/)
+
+  A generative software application for composing music.
+
+  
