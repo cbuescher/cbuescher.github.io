@@ -45,4 +45,9 @@ categories: audio coding
 
   A generative software application for composing music.
 
+### Audio in other languages / frameworks
+
+* [ofxPDSP](https://github.com/npisanti/ofxPDSP)
+  
+  An openFrameworks addon for audio synthesis and generative music.
   
